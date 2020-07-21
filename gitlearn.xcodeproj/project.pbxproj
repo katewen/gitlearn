@@ -17,6 +17,8 @@
 		8244038D24C6816C00800780 /* gitlearnTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8244038C24C6816C00800780 /* gitlearnTests.m */; };
 		8244039824C6816C00800780 /* gitlearnUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8244039724C6816C00800780 /* gitlearnUITests.m */; };
 		824403A724C6835900800780 /* TestGitViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 824403A624C6835900800780 /* TestGitViewController.m */; };
+		824403AA24C6943B00800780 /* Test2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 824403A924C6943B00800780 /* Test2ViewController.m */; };
+		824403AD24C694B300800780 /* Test3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 824403AC24C694B300800780 /* Test3ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +59,10 @@
 		8244039924C6816C00800780 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		824403A524C6835900800780 /* TestGitViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestGitViewController.h; sourceTree = "<group>"; };
 		824403A624C6835900800780 /* TestGitViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestGitViewController.m; sourceTree = "<group>"; };
+		824403A824C6943B00800780 /* Test2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test2ViewController.h; sourceTree = "<group>"; };
+		824403A924C6943B00800780 /* Test2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test2ViewController.m; sourceTree = "<group>"; };
+		824403AB24C694B300800780 /* Test3ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test3ViewController.h; sourceTree = "<group>"; };
+		824403AC24C694B300800780 /* Test3ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test3ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +121,10 @@
 				8244037724C6816900800780 /* ViewController.m */,
 				824403A524C6835900800780 /* TestGitViewController.h */,
 				824403A624C6835900800780 /* TestGitViewController.m */,
+				824403A824C6943B00800780 /* Test2ViewController.h */,
+				824403A924C6943B00800780 /* Test2ViewController.m */,
+				824403AB24C694B300800780 /* Test3ViewController.h */,
+				824403AC24C694B300800780 /* Test3ViewController.m */,
 				8244037924C6816900800780 /* Main.storyboard */,
 				8244037C24C6816B00800780 /* Assets.xcassets */,
 				8244037E24C6816B00800780 /* LaunchScreen.storyboard */,
@@ -274,7 +284,9 @@
 			files = (
 				8244037824C6816900800780 /* ViewController.m in Sources */,
 				824403A724C6835900800780 /* TestGitViewController.m in Sources */,
+				824403AD24C694B300800780 /* Test3ViewController.m in Sources */,
 				8244037224C6816900800780 /* AppDelegate.m in Sources */,
+				824403AA24C6943B00800780 /* Test2ViewController.m in Sources */,
 				8244038324C6816B00800780 /* main.m in Sources */,
 				8244037524C6816900800780 /* SceneDelegate.m in Sources */,
 			);
